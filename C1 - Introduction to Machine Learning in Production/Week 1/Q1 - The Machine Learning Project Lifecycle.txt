@@ -1,0 +1,61 @@
+The Machine Learning Project Lifecycle
+
+1. Which of these are stages of the machine learning project lifecycle? Check all that apply.
+
+> Scoping
+
+Correct
+That's right! Scoping is the first stage of the machine learning project lifecycle.
+
+> Data
+
+Correct
+Right on! Data is the second stage of the machine learning project lifecycle.
+
+Configuration
+
+> Modeling
+
+Correct
+You're right! Modeling is the third stage of the machine learning project lifecycle.
+
+> Deployment
+
+Correct
+Correct! Deployment is the fourth stage of the machine learning project lifecycle.
+
+2. Which of these is not an advantage of a typical edge deployment compared to a typical cloud deployment?
+
+> More computational power available
+Lower latency
+Less network bandwidth needed
+Can function even if network connection is down
+
+Correct
+Edge deployments are frequently constrained in computational power due to cost, size, and energy requirements of the hardware. 
+
+3. In the speech recognition example, what is the problem with some labelers transcribing audio as "Um, today’s weather" and others transcribing "Umm..., today’s weather"?
+
+The first is grammatically incorrect and we should use the second transcription.
+> Either transcription is okay, but the inconsistency is problematic.
+We should not be transcribing "Umm." The correct transcription, which serves the user's needs better, is just "Today’s weather".
+The second is grammatically incorrect and we should use the first transcription. 
+
+Correct
+That's right! The labelling instructions should remove ambiguity such that every example is labelled consistently. 
+
+4. After a system is deployed, monitoring and maintaining the system will help us handle any cases of concept drift or data drift.
+
+> True
+False
+
+Correct
+That's right! The last step of the machine learning project lifecycle is monitoring and maintenance, which is necessary because your project's use cases and data may change over time!
+
+5. Which statement is a more accurate description of the full cycle of a machine learning project?
+
+It is a linear process, in which we move step-by-step from scoping to deployment. (That’s why we call it a cycle. Bicycles are only good at going forward, not backward.)
+> It is an iterative process, where during a later stage we might go back to an earlier stage. (That’s why we call it a cycle--it’s a circular process.)
+
+Correct
+That's right! 

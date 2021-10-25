@@ -1,0 +1,60 @@
+Modeling challenges
+
+1. You are working on a binary classification ML algorithm that detects whether a patient has a specific disease. In your dataset, 98% of the training examples (patients) don’t have the disease, so the dataset is very skewed. Accuracy on both positive and negative classes is important. You read a research paper claiming to have developed a system that achieves 95% on ____ metric. What metric would give you the most confidence they’ve built a useful and non-trivial system? (Select one) 
+
+> F1 score
+Recall
+Precision
+Accuracy
+
+Correct
+That’s right! F1 score is recommended on skewed datasets, as it combines precision and recall into one metric.
+
+2. On the previous problem above with 98% positive examples, if your algorithm is print("1") (i.e., it says everyone has the disease). Which of these statements is true?
+
+The algorithm achieves 100% precision.
+The algorithm achieves 0% precision.
+The algorithm achieves 0% recall.
+> The algorithm achieves 100% recall.
+
+Correct
+That's right, since it would classify everyone as having the disease and therefore not have any False Negatives. Remember, recall is the number of True Positives / (True Positives + False Negatives).
+
+3. True or False? During error analysis, each example should only be assigned one tag. For example, in a speech recognition application you may have the tags: "car noise", "people noise" and "low bandwidth". If you encounter an example with both car noise and low bandwidth audio, you should use your judgement to assign just one of these two tags rather than apply both tags. 
+
+> False
+True
+
+Correct
+That's right! Each example should have as many tags as is necessary to accurately classify it. This will help you develop an accurate understanding of where your errors are coming from, which will in turn help you focus your efforts in reducing the errors.
+
+4. You are building a visual inspection system. Error analysis finds:
+
+Type of defect	Accuracy	HLP			% of data
+Scratch			95%			98%			50% 
+Discoloration	90%			90%			50% 
+Based on this, what is the more promising type of defect to work on?
+
+Discoloration, because the algorithm’s accuracy is lower and thus there’s more room for improvement.
+Discoloration, because HLP is lower which suggests this is therefore the harder problem that thus needs more attention.
+> Scratch defects, because the gap to HLP is higher and thus there’s more room for improvement. 
+Work on both classes equally because they are each 50% of the data. 
+
+Correct
+That's right! There is still room for improvement for your algorithm. 
+
+5. You’re considering applying data augmentation to a phone visual inspection problem. Which of the following statements are true about data augmentation? (Select all that apply)
+
+> Data augmentation should try to generate more examples in the parts of the input space where you’d like to see improvement in the algorithm’s performance. 
+
+Correct
+That's right! Data augmentation is a very cheap and easy way to increase the size of your dataset!
+
+Data augmentation should distort the input sufficiently to make sure they are hard to classify by humans as well. 
+
+> GANs can be used for data augmentation.
+
+Correct
+That's right! GANs are one way to generate more images and increase the size of your dataset. 
+
+Data augmentation should try to generate more examples in the parts of the input space where the algorithm is already doing well and there’s no need for improvement.

@@ -2,7 +2,7 @@
 
 # Machine Learning Engineering for Production (MLOps) Specialization on Coursera (offered by deeplearning.ai)
 
-Programming assignments from all courses in the Coursera [Machine Learning Engineering for Production (MLOps)](https://www.deeplearning.ai/generative-adversarial-networks-specialization/) Specialization offered by `deeplearning.ai`.
+Programming assignments from all courses in the Coursera [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) Specialization offered by `deeplearning.ai`.
 
 ## Courses
 

@@ -110,3 +110,17 @@ By the end, you'll be ready to:
 	- [Feature Engineering with Images](https://nbviewer.org/github/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_3_Images.ipynb), [PDF](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_3_Images.pdf)
 
 ---
+
+### Course 3: Machine Learning Modeling Pipelines in Production
+
+#### Week 1
+
+- Lab:
+	- [Keras Tuner Exercise](https://nbviewer.org/github/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/C3_W1_Lab_1_Keras_Tuner.ipynb), [PDF](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/C3_W1_Lab_1_Keras_Tuner.pdf)
+	- [TFX_Tuner_and_Trainer](https://nbviewer.org/github/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/C3_W1_Lab_2_TFX_Tuner_and_Trainer.ipynb), [PDF](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/C3_W1_Lab_2_TFX_Tuner_and_Trainer.pdf)
+
+#### Week 2
+
+- Labs:
+	- [Manual_Dimensionality](https://nbviewer.org/github/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%202/C3_W2_Lab_1_Manual_Dimensionality.ipynb), [PDF](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%202/C3_W2_Lab_1_Manual_Dimensionality.pdf)
+	

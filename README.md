@@ -123,4 +123,22 @@ By the end, you'll be ready to:
 
 - Labs:
 	- [Manual_Dimensionality](https://nbviewer.org/github/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%202/C3_W2_Lab_1_Manual_Dimensionality.ipynb), [PDF](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%202/C3_W2_Lab_1_Manual_Dimensionality.pdf)
+
+#### Week 3
+
+- Labs:
+	- [Distributed training with TF and Keras](https://nbviewer.org/github/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%203/C3_W3_Lab_1_Distributed_Training.ipynb), [PDF](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%203/C3_W3_Lab_1_Distributed_Training.pdf)
+
+#### Week 4
+
+- Labs:
+	- [Tensorflow Model Analysis](https://nbviewer.org/github/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/C3_W4_Lab_1_TFMA.ipynb), [PDF](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/C3_W4_Lab_1_TFMA.pdf)
+	- [Model Analysis with TFX Evaluator](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/C3_W4_Lab_2_TFX_Evaluator.ipynb), [PDF](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/C3_W4_Lab_2_TFX_Evaluator.pdf)
+	- [Fairness Indicator](https://nbviewer.org/github/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/C3_W4_Lab_3_Fairness_Indicators.ipynb), [PDF](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/C3_W4_Lab_3_Fairness_Indicators.pdf)
+
+#### Week 5
+
+- Labs:
+	- [Permutation Feature Importance](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%205/C3_W5_Lab_2_Permutation_Importance.ipynb), [PDF](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%205/C3_W5_Lab_2_Permutation_Importance.pdf)
+	- [SHapley Additive exPlanations](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%205/C3_W5_Lab_1_Shap_Values.ipynb), [PDF](https://github.com/sndpkirwai/coursera-deeplearning.ai-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%205/C3_W5_Lab_1_Shap_Values.pdf)
 	
